@@ -1,0 +1,428 @@
+.header{
+   position: relative;
+   width: 1353px;
+   height:45rem;
+   left: -4px;
+   top:0px;
+   text-align: center !important;
+    background-image: url(/images/Rectangle\ 6.png); 
+    background-color: rgba(0, 0, 0, 0.7); 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.rooms-header-content{
+    text-align: center !important;
+}
+.first-background-image{
+    background-image: url(/images/first.png); 
+}
+
+.the-rooms{
+    
+    position: absolute;
+    width: 205px;
+    height: 30px;
+     left: 600px; 
+    top: 301px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+    
+    
+}
+hr{
+    position: absolute;
+    width: 486px;
+    height: 0px;
+    left: 477px;
+    top: 355px;
+    border: 1px solid #FFFFFF;
+}
+.mordern{
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    left: 520px;
+    top: 379px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.rows{
+    background-color:red !important;
+}
+.deluxe{
+    position: absolute;
+    width: 395px;
+    height: 463px;
+    left: 138px;
+    top: 762px;
+
+}
+.deluxe-suite{
+    position: relative;
+    width: 240px;
+    height: 30px;
+    left: 40px;
+    top: 40px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 30px;
+    /* identical to box height, or 83% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.standard{
+    position: absolute;
+    width: 338px;
+    height: 90px;
+    left: 40px;
+    top: 140px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+}
+.standard-room{
+    position: absolute;
+    width: 155px;
+    height: 90px;
+    left: 40px;
+    top: 250px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+}
+.view-details{
+    position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 40px;
+    top: 400px;
+
+    background: #DBA7C1;
+    border-radius: 4px;
+    border: none;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+}
+.night{
+    position: absolute;
+    width: 95px;
+    height: 30px;
+    left: 250px;
+    top: 400px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.line{
+        
+    position: absolute;
+    width: 90px;
+    height: 0px;
+    left: 250px;
+    top: 420px;
+
+    border: 1px solid #DBA7C1;
+}
+.signature{
+    position: absolute;
+    width: 395px;
+    height: 463px;
+    left: 138px;
+    top: 1380px;
+}
+.signature-queen-room{
+    
+    position: relative;
+    width: 327px;
+    height: 100px;
+    left: 40px;
+    top: 30px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    /* or 139% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.our-signature{
+    position: absolute;
+    width: 329px;
+    height: 60px;
+    left: 40px;
+    top: 170px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+}
+.signature-room{
+        
+    position: absolute;
+    width: 161px;
+    height: 90px;
+    left: 40px;
+    top: 250px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+
+}
+.view-details2{
+    position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 40px;
+    top: 400px;
+
+    background: #DBA7C1;
+    border-radius: 4px;
+    border: none;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+}
+.night2{
+    position: absolute;
+    width: 95px;
+    height: 30px;
+    left: 250px;
+    top: 400px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.line2{
+    position: absolute;
+    width: 90px;
+    height: 0px;
+    left: 250px;
+    top: 420px;
+
+    border: 1px solid #DBA7C1;
+}
+.guest{
+    position: absolute;
+    width: 395px;
+    height: 463px;
+    left: 138px;
+    top: 2000px;
+}
+.guest-room-with-terrace{
+    position: relative;
+    width: 327px;
+    height: 100px;
+    left: 40px;
+    top: 30px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    /* or 139% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.the-guest{
+    position: absolute;
+    width: 337px;
+    height: 60px;
+    left: 40px;
+    top: 150px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+}
+.lounge{
+        
+    position: absolute;
+    width: 238px;
+    height: 120px;
+    left: 40px;
+    top: 250px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+}
+.view-details3{
+    position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 40px;
+    top: 400px;
+
+    background: #DBA7C1;
+    border-radius: 4px;
+    border: none;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+}
+.night3{
+    position: absolute;
+    width: 95px;
+    height: 30px;
+    left: 250px;
+    top: 400px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.presidential{
+    position: absolute;
+    width: 395px;
+    height: 463px;
+    left: 138px;
+    top: 2600px;
+}
+.presidential-suite{
+    position: relative;
+    width: 268px;
+    height: 100px;
+    left: 40px;
+    top: 50px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    /* or 139% */
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+.the-most-extraordinary{
+    position: absolute;
+    width: 345px;
+    height: 180px;
+    left: 40px;
+    top: 200px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+
+
+    color: #FFFFFF;
+}
+.container{
+
+    
+}
